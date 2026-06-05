@@ -11,8 +11,8 @@ To write a Python program that merges **two dictionaries** and combines their ke
 
 ## 🧾 Program
 
-Add code here
-
+dict1 = eval(input()) dict2 = eval(input()) merged_dict = {**dict1, **dict2} print(merged_dict)
 ## Output
-
+{1:10,2:20,3:30} {5:50,2:"two"} {1: 10, 2: 'two', 3: 30, 5: 50}
 ## Result
+Thus,the python program was run successfully for the given question
